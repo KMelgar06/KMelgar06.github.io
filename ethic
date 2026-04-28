@@ -1,0 +1,55 @@
+<!doctype html>
+<html>
+<head>
+  <title>IT Ethics - KMelgar06</title>
+  <style>
+    body { font-family: Arial; margin: 0; }
+    nav { background: #2c3e50; padding: 12px 24px; display: flex; gap: 20px; }
+    nav a { color: white; text-decoration: none; font-size: 14px; padding: 6px 12px; border-radius: 3px; }
+    nav a:hover { background: #1a252f; }
+    nav a.active { background: #1a252f; }
+    .content { margin: 40px; }
+    h1 { font-size: 24px; margin-bottom: 10px; color: #2c3e50; }
+    h2 { font-size: 16px; margin: 24px 0 6px; color: #2c3e50; }
+    p { font-size: 14px; line-height: 1.7; margin-bottom: 8px; color: #333; }
+    .references { margin-top: 36px; border-top: 1px solid #ccc; padding-top: 16px; }
+    .references ol { font-size: 13px; line-height: 1.8; padding-left: 20px; color: #555; }
+  </style>
+</head>
+<body>
+
+<nav>
+  <a href="index.html">Home</a>
+  <a href="ethics.html" class="active">Ethics</a>
+  <a href="about.html">About</a>
+</nav>
+
+<div class="content">
+  <h1>IT Ethics</h1>
+  <p>Ethics is an important part of IT. As such, it is up to IT professionals to behave ethically. The below lists many examples of ethical guidelines for IT professionals.</p>
+
+  <h2>1. ACM Code of Ethics (2018)</h2>
+  <p>ACM believes IT professionals are required to not harm others through their work, be truthful at all times, and ensure other's privacy while working on the job. ACM also expects fairness when treating people.</p>
+
+  <h2>2. IEEE Code of Ethics (2020)</h2>
+  <p>IEEE requires its members to prioritize public safety above all else, to provide transparency regarding any conflict of interests, and to treat all people fairly.</p>
+
+  <h2>3. NIST Privacy Framework (2020)</h2>
+  <p>NIST created this framework as a resource for organizations to use when handling personal information safely and ethically. This includes how to identify potential privacy risk, how to protect the identified risks, and how to successfully manage those privacy risks.</p>
+
+  <h2>4. EU Ethics Guidelines for Trustworthy AI (2019)</h2>
+  <p>AI should function in an unbiased manner; be transparent so users can easily see what the system did to make a decision; and include humans reviewing AI based decisions. AI systems should not be allowed to discriminate against individuals or groups.</p>
+
+  <div class="references">
+    <h2>References</h2>
+    <ol>
+      <li>ACM. (2018). <em>ACM Code of Ethics.</em> https://www.acm.org/code-of-ethics</li>
+      <li>IEEE. (2020). <em>IEEE Code of Ethics.</em> https://www.ieee.org/about/corporate/governance/p7-8.html</li>
+      <li>NIST. (2020). <em>NIST Privacy Framework.</em> https://www.nist.gov/privacy-framework</li>
+      <li>European Commission. (2019). <em>Ethics Guidelines for Trustworthy AI.</em> https://digital-strategy.ec.europa.eu</li>
+    </ol>
+  </div>
+</div>
+
+</body>
+</html>
